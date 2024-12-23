@@ -1,0 +1,54 @@
+.link{
+    font-size: 45px;
+    text-decoration: none;
+    margin-left: 80px;
+    color: bisque;
+}
+
+.link2{
+    font-size: 45px;
+    text-decoration: none;
+    margin-left: 40px;
+    color: bisque;
+}
+
+.st{
+    background-color:aliceblue;
+}
+
+.in{
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 60px;
+}
+
+.si{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+
+.im{
+    width: 500px;
+    height: 300px;
+    
+}
+
+.body{
+    background-image:url(https://media.istockphoto.com/id/1284298876/video/a-live-multicolored-audio-waveform-background-a-perfect-background-for-a-podcast-audiobook-or.jpg?s=640x640&k=20&c=I9z4H6H_BErTtKj5iZI4_cCVGwvtDfnzkZefIj3SYWg=);
+    background-size: cover;
+}
+
+.au{
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 600px;
+}
+
+.di{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(9, 172, 248);
+}
+
+.wi{
+    color: aliceblue;
+}
